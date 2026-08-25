@@ -1,2 +1,3 @@
-# libratech-libray_managment_system
-Libray Managmenat System- Deshboard,Members, Issue book
+# Student_managment_system
+Student Managmenat System with CRUD,Search & Dashboard -B.voc 5th sem project.
+
